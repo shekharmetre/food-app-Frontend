@@ -1,0 +1,4 @@
+1.Table name and number
+2.total price flex timing when they ordered.
+3.send signature to client from owner your order on the way.
+5.view all items from that table.
